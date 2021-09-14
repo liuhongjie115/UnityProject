@@ -1,0 +1,7 @@
+E:\Project\UnityProject\Assets\HotUpdateResources\Dll\Hidden~\HotUpdateScripts.dll
+E:\Project\UnityProject\Assets\HotUpdateResources\Dll\Hidden~\HotUpdateScripts.pdb
+E:\Project\UnityProject\HotUpdateScripts\obj\Debug\HotUpdateScripts.csprojAssemblyReference.cache
+E:\Project\UnityProject\HotUpdateScripts\obj\Debug\HotUpdateScripts.csproj.CoreCompileInputs.cache
+E:\Project\UnityProject\HotUpdateScripts\obj\Debug\HotUpdateScripts.csproj.CopyComplete
+E:\Project\UnityProject\HotUpdateScripts\obj\Debug\HotUpdateScripts.dll
+E:\Project\UnityProject\HotUpdateScripts\obj\Debug\HotUpdateScripts.pdb
